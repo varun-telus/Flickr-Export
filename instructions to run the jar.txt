@@ -1,0 +1,7 @@
+java -jar flickr.jar "Location where the photos are stored" "Location where the album json file is stored" "Location where you want to create the albums" "Location where photo json files are stored"
+
+example: java -jar flickr.jar "C:\\Users\\x223454\\Documents\\Flickr\\Flickr Data" "C:\\Users\\x223454\\Documents\\Flickr\\albums.json" "C:\\Users\\x223454\\Documents\\Flickr" "C:\\Users\\x223454\\Documents\\Flickr\\photo_json"
+
+
+
+example-mac: java -jar flickr.jar "Users/x223454/Documents/Flickr/Flickr Data" "Users/x223454/Documents/Flickr/albums.json" "Users/x223454/Documents/Flickr" "Users/x223454/Documents/Flickr/photo_json"

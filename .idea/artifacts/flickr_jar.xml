@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact name="flickr:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/flickr_jar</output-path>
+    <root id="root">
+      <element id="archive" name="flickr.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="flickr" />
+      </element>
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.13.3" />
+      <element id="library" level="project" name="Maven: commons-io:commons-io:2.11.0" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.13.3" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.13.3" />
+    </root>
+  </artifact>
+</component>
